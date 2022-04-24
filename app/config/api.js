@@ -1,0 +1,1 @@
+export default apiEndPoint = "https://dococrnode.herokuapp.com/api"
